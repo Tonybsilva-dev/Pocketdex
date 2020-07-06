@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/banner.png" />
+    <img alt="Pokedex" title="#NextLevelWeek" src="./img/banner.png" />
 </h1>
 
 <p align="center">
@@ -23,18 +23,6 @@
 ## 💻 Sobre o projeto
 
 ♻️ Pokedex - Um Pokedex básica feita em React para treinar programação
-
-
-## 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tonybsilva-dev" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-
-#
 
 ## 🛠 Tecnologias
 
