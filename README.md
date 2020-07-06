@@ -2,6 +2,8 @@
     <img alt="Pokedex" title="#NextLevelWeek" src="./img/main.png" />
 </h1>
 
+<h3 align="center"> https://tonybsilva-dev.github.io/Pokedex/ </h3>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tonybsilva-dev/Pokedex?color=%2304D361">
   <a href="https://github.com/Tonybsilva-dev/Pcoleta/commits/master">
@@ -22,7 +24,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Pokedex - Um Pokedex básica feita em React para treinar programação
+<img src="https://img.icons8.com/color/28/000000/pokedex.png"/> Pokedex - Uma Pokedex básica feita em React para treinar programação e consumo de API.
 
 ## 🛠 Tecnologias
 
