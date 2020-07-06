@@ -1,68 +1,69 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/banner.png" />
+</h1>
 
-## Available Scripts
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tonybsilva-dev/Pokedex?color=%2304D361">
+  <a href="https://github.com/Tonybsilva-dev/Pcoleta/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tonybsilva-dev/Pokedex">
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tonybsilva-dev/Pokedex">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a href="https://github.com/tonybsilva-dev/Pokedex/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/tonybsilva-dev/Pokedex?style=social">
+  </a>
+  	
+  <a href="https://twitter.com/tonybsilvaaa">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
+  </a>
 
-In the project directory, you can run:
+</p>
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Sobre o projeto
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+♻️ Pokedex - Um Pokedex básica feita em React para treinar programação
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎨 Layout
 
-### `yarn build`
+O layout da aplicação está disponível no Figma:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+  <img alt="Made by tonybsilva-dev" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#
 
-### `yarn eject`
+## 🛠 Tecnologias
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+As seguintes ferramentas foram usadas na construção do projeto:
+- [Node.js][nodejs]
+- [React][reactjs]
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :memo: License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+## Contribua para o projeto 😉
 
-## Learn More
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Antônio Bernardino 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tony-silva/)
 
-### Code Splitting
+[nodejs]: https://nodejs.org/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
+[vscode]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[license]: https://opensource.org/licenses/MIT
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
