@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Pokedex" title="#NextLevelWeek" src="./img/banner.png" />
+    <img alt="Pokedex" title="#NextLevelWeek" src="./img/main.png" />
 </h1>
 
 <p align="center">
