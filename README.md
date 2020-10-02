@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Pokedex" title="#NextLevelWeek" src="./img/main.png" />
+    <img alt="Pokedex" title="#Pokedex" src="./img/main.png" />
 </h1>
 
 <h3 align="center"> https://tonybsilva-dev.github.io/Pokedex/ </h3>
